@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "From TCOM to 10up",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "tcom-alumni-panel"
+  }
+}
